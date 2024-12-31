@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noah-user
 - 👀 I’m interested in ... ai/ml
-- 🌱 I’m currently learning ... C++, SQL, Python
+- 🌱 I’m currently learning ... C++, SQL, Python, Rust
 - 💞️ I’m looking to collaborate on ... anything thats interesting
 - 📫 How to reach me ... nwilliams157@gmail.com
 
